@@ -1,0 +1,19 @@
+<div class="chat">
+  <div class="mensagens">
+      <p *ngFor="let mensagem of filteredMessages" [ngClass]="mensagem.senderId == activeContactId? 'recebe' : 'envia'">
+        <strong>{{ mensagem.senderId }}:</strong> {{ mensagem.content }}
+      </p>
+  </div>
+  <div class="input-area">
+    <input 
+      type="text" 
+      placeholder="Digite sua mensagem..." 
+      [(ngModel)]="mensagemConteudo" 
+      (keyup.enter)="sendMessage()" />
+    <button 
+      [disabled]="!mensagemConteudo.trim()" 
+      (click)="sendMessage()">
+      Enviar
+    </button>
+  </div>
+</div>

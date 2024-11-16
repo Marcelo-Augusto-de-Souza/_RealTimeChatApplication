@@ -1,0 +1,14 @@
+<div class="chat-container">
+  <div class="sidebar">
+    <app-side-bar (contactSelected)="onContactSelected($event)"></app-side-bar>
+  </div>
+  <div class="main-chat" *ngIf="activeContact$ | async as activeContact; else noChat">
+    <app-cabecalho></app-cabecalho>
+    <app-area-chat></app-area-chat>
+  </div>
+  <ng-template #noChat>
+    <div class="empty-chat">
+      <p>Selecione um contato para iniciar uma conversa</p>
+    </div>
+  </ng-template>
+</div>

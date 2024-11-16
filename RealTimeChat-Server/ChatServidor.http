@@ -1,0 +1,6 @@
+@ChatServidor_HostAddress = http://localhost:5042
+
+GET {{ChatServidor_HostAddress}}/
+Accept: application/json
+
+###

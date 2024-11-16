@@ -1,0 +1,10 @@
+<div class="container">
+    <h1>Seja Bem Vindo(a)!</h1>
+    <p>Entre com seu nome para começar:</p>
+    <input type="text" placeholder="Seu nome..." [formControl]="nameControl" />
+    <div *ngIf="isNameInvalid" class="error-message">
+      O nome é obrigatório.
+    </div>
+    <button [disabled]="isNameInvalid" (click)="irParaChat()">Começar</button>
+  </div>
+  

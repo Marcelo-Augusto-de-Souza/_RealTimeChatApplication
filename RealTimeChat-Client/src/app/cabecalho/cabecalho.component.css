@@ -1,0 +1,28 @@
+.cabecalho {
+    background-color: #234e64;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    border-left: 2px solid #ffffff5b;
+    height: 38px;
+  }
+
+  .contact-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .contact-name {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  .contact-id {
+    color: #ffffff;
+    font-size: 0.9rem;
+  }
+  

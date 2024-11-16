@@ -1,0 +1,46 @@
+.sidebar {
+    background-color: #2b6f88;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #234e64;
+  }
+  
+  .conversas {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+  }
+  
+  .contato {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: #1a4555;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  .contato:hover {
+    background-color:#205669;
+  }
+  
+  .notification {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  .new-msg {
+    background-color: rgb(0, 218, 0);
+    box-shadow: 0 0 8px 4px rgba(0, 218, 0, 0.8);
+  }

@@ -1,0 +1,8 @@
+<div class="cabecalho">
+    <ng-container *ngIf="activeContact$ | async as contact">
+      <div class="contact-info">
+        <span class="contact-name">{{contact.clientName}}</span>
+        <span class="contact-id">#{{contact.clientId}}</span>
+      </div>
+    </ng-container>
+  </div>

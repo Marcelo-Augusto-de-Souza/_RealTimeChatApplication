@@ -1,0 +1,138 @@
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/appsettings.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.exe
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.deps.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.runtimeconfig.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.pdb
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Npgsql.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.csproj.AssemblyReference.cache
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.AssemblyInfoInputs.cache
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.AssemblyInfo.cs
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.csproj.CoreCompileInputs.cache
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.build.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/scopedcss/bundle/ChatServidor.styles.css
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServ.9D62241A.Up2Date
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/refint/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.pdb
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.genruntimeconfig.cache
+C:/Users/Felipe/OneDrive/Documentos/E.C.-UFU/2024-1/SCTR/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ref/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/appsettings.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.exe
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.deps.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.runtimeconfig.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/ChatServidor.pdb
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Npgsql.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.csproj.AssemblyReference.cache
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.AssemblyInfoInputs.cache
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.AssemblyInfo.cs
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.csproj.CoreCompileInputs.cache
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.build.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatServidor.props
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/scopedcss/bundle/ChatServidor.styles.css
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServ.9D62241A.Up2Date
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/refint/ChatServidor.dll
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.pdb
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ChatServidor.genruntimeconfig.cache
+C:/Users/Felipe/OneDrive/Documentos/Meus Projetos/trabaho_final_str/ServidorChatv1/ChatServidor/obj/Debug/net8.0/ref/ChatServidor.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/appsettings.Development.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/appsettings.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/ChatServidor
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/ChatServidor.deps.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/ChatServidor.runtimeconfig.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/ChatServidor.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/ChatServidor.pdb
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Npgsql.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.csproj.AssemblyReference.cache
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.AssemblyInfoInputs.cache
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.AssemblyInfo.cs
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.csproj.CoreCompileInputs.cache
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.sourcelink.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets.build.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets.development.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets/msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets/msbuild.build.ChatServidor.props
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatServidor.props
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatServidor.props
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/scopedcss/bundle/ChatServidor.styles.css
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.csproj.CopyComplete
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/refint/ChatServidor.dll
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.pdb
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ChatServidor.genruntimeconfig.cache
+/home/felipe/Meus Projetos/trabalho_final_str/RealTimeChat-Server/obj/Debug/net8.0/ref/ChatServidor.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\appsettings.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\ChatServidor.exe
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\ChatServidor.deps.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\ChatServidor.runtimeconfig.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\ChatServidor.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\ChatServidor.pdb
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Npgsql.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.csproj.AssemblyReference.cache
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.AssemblyInfoInputs.cache
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.AssemblyInfo.cs
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.csproj.CoreCompileInputs.cache
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.sourcelink.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets\msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatServidor.props
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatServidor.props
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatServidor.props
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\scopedcss\bundle\ChatServidor.styles.css
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServ.9D62241A.Up2Date
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\refint\ChatServidor.dll
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.pdb
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ChatServidor.genruntimeconfig.cache
+D:\Projetos de Programação!!!\Projetos Web\AppRealTimeChat\RealTimeChat-Server\obj\Debug\net8.0\ref\ChatServidor.dll

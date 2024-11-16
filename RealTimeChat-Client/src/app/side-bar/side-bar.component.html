@@ -1,0 +1,17 @@
+<div class="sidebar">
+  <div class="header">
+    <span>{{ userName$ | async }}</span>
+    <span>ID: {{ clientId$ | async }}</span>
+  </div>
+  <div class="conversas">
+    <h3>Conversas</h3>
+    <div 
+      *ngFor="let contact of filteredContacts" 
+      class="contato" 
+      [class.active]="(activeContact$ | async)?.clientId === contact.clientId"
+      (click)="onContactClick(contact)"
+    >
+      <span>{{ contact.clientName }}</span>
+    </div>
+  </div>
+</div>
