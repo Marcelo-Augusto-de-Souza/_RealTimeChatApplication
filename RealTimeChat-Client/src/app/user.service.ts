@@ -37,7 +37,7 @@ export interface ClientList {
 })
 
 export class UserService {
-  private baseUrl = 'http://localhost:5000/api/chat';
+  private baseUrl = 'http://192.168.100.108:5000/api/chat';
   private currentClientId: number = 0;
   public contacts: ClientList = { client_list: [] }; 
   private subscription!: Subscription;

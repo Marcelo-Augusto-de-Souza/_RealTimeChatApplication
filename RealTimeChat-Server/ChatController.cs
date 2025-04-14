@@ -22,8 +22,20 @@ public class ChatController : ControllerBase
     [HttpGet("test")]
     public IActionResult Test()
     {
+        
+        SMI();
         return Ok("API is working!");
     }
+
+    private static async Task SMI()
+    {
+        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=xxxxxxxx;Database=dbServidorChat");
+        await conn.OpenAsync();
+
+       
+    }
+
+    
 
     [HttpGet("list")]
     public IActionResult List(int clientId)
@@ -85,10 +97,10 @@ public class ChatController : ControllerBase
     private static async Task<List<Message>> LoadMessagesFromDatabase(int clientId, int targetClientId)
     {
         var messages = new List<Message>();
-        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=banco123;Database=realtimechatdb");
+        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=xxxxxxxx;Database=dbServidorChat");
         await conn.OpenAsync();
 
-        string query = "SELECT client_id_1, client_id_2, message, timestamp FROM chat.conversations " +
+        string query = "SELECT client_id_1, client_id_2, message, timestamp FROM conversations " +
                        "WHERE (client_id_1 = @client1 AND client_id_2 = @client2) " +
                        "OR (client_id_1 = @client2 AND client_id_2 = @client1) ORDER BY timestamp";
 
@@ -113,10 +125,10 @@ public class ChatController : ControllerBase
 
     private static async Task StoreMessageInConversation(ClientHandler sender, string messageContent, int recipientId)
     {
-        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=banco123;Database=realtimechatdb");
+        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=xxxxxxxxx;Database=dbServidorChat");
         await conn.OpenAsync();
 
-        var query = "INSERT INTO chat.conversations (client_id_1, client_id_2, message, timestamp) " +
+        var query = "INSERT INTO conversations (client_id_1, client_id_2, message, timestamp) " +
                     "VALUES (@client1, @client2, @message, @timestamp)";
         using var cmd = new NpgsqlCommand(query, conn);
         cmd.Parameters.AddWithValue("client1", sender.ClientId);
